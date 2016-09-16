@@ -1,6 +1,6 @@
 <?php
 
-namespace edofre\markerclusterer;
+namespace releaznl\markerclusterer;
 
 /**
  * Class ClustererAsset

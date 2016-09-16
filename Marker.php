@@ -1,5 +1,5 @@
 <?php
-namespace edofre\markerclusterer;
+namespace releaznl\markerclusterer;
 
 /**
  * Class Marker

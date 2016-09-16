@@ -1,5 +1,5 @@
 <?php
-namespace edofre\markerclusterer;
+namespace releaznl\markerclusterer;
 
 use dosamigos\google\maps\ObjectAbstract;
 use yii\helpers\ArrayHelper;
