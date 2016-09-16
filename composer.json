@@ -1,5 +1,5 @@
 {
-  "name": "edofre/yii2-marker-clusterer",
+  "name": "releaznl/yii2-marker-clusterer",
   "description": "Yii2 assets and marker clusterer",
   "require": {
     "php": ">=5.5.0",
@@ -13,12 +13,12 @@
     "google",
     "2amigos"
   ],
-  "homepage": "https://github.com/edofre/yii2-marker-clusterer",
+  "homepage": "https://github.com/releaznl/yii2-marker-clusterer",
   "type": "yii2-extension",
   "license": "MIT",
   "support": {
-    "source": "https://github.com/edofre/yii2-marker-clusterer",
-    "issues": "https://github.com/edofre/yii2-marker-clusterer/issues"
+    "source": "https://github.com/releaznl/yii2-marker-clusterer",
+    "issues": "https://github.com/releaznl/yii2-marker-clusterer/issues"
   },
   "authors": [
     {
@@ -28,7 +28,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "edofre\\markerclusterer\\": ""
+      "releaznl\\markerclusterer\\": ""
     }
   },
   "extra": {
