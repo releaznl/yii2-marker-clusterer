@@ -16,7 +16,6 @@
   "homepage": "https://github.com/releaznl/yii2-marker-clusterer",
   "type": "yii2-extension",
   "license": "MIT",
-  "version": "1.0.1",
   "support": {
     "source": "https://github.com/releaznl/yii2-marker-clusterer",
     "issues": "https://github.com/releaznl/yii2-marker-clusterer/issues"
@@ -31,5 +30,10 @@
     "psr-4": {
       "releaznl\\markerclusterer\\": ""
     }
-  }
+  },
+
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
 }
