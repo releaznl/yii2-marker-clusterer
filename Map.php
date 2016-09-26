@@ -72,7 +72,10 @@ class Map extends \dosamigos\google\maps\Map
 		$js[] = "var markerCluster = new MarkerClusterer({$name}, markers, {
 			imagePath: '{$cluster_asset_manager->imagePath}'
 		});";
-
+		
+		// Make markerCluster available globally
+		$js[] = "window.globalmarkerCluster = markerCluster;";
+		
 		$js[] = "};";
 		$js[] = "google.maps.event.addDomListener(window, 'load', initialize);";
 		$js[] = "})();";
